@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url("/img/hero1.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+    margin-bottom: 0;
+}
+
+.jumbotron h1 {
+    font-size: xx-large;
+}
+
+.mynav {
+    background-color: #bbded6;
+
+}
