@@ -1,5 +1,5 @@
 .jumbotron {
-    background-image: url("/img/hero1.jpg");
+    background-image: url("../img/hero1.jpg");
     background-size: cover;
     background-position: center;
     height: 250px;
@@ -12,5 +12,7 @@
 
 .mynav {
     background-color: #bbded6;
-
+    margin: 0;
+    padding: 0;
 }
+

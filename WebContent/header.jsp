@@ -16,31 +16,31 @@
 					<button type="button" class="btn btn-success my-3">Sign Up</button>		
 				</div>
 			</div>
-			<nav class="navbar nav-fluid navbar-expand-md navbar-light mynav">
-				<ul class="navbar-nav">
-					<li class="nav-item">
-						<a class="nav-link" href="">New Account</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="">Balance</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="">Deposit</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="">Withdraw</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="">Transfer</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="">Close A/C</a>
-					</li>
-					<li class="nav-item">
-						<a class="nav-link" href="">About Us</a>
-					</li>
-				</ul>
-			</nav>
+			
+			<div class="row mynav">
+				<div class="col text-center">
+					<a href="newaccount.jsp" class="nav-link text-danger">New Account</a>
+				</div>
+				<div class="col text-center">
+					<a href="balance.jsp" class="nav-link text-danger">Balance</a>
+				</div>
+				<div class="col text-center">
+					<a href="deposit.jsp" class="nav-link text-danger">Deposit</a>
+				</div>
+				<div class="col text-center">
+					<a href="withdraw.jsp" class="nav-link text-danger">Withdraw</a>
+				</div>
+				<div class="col text-center">
+					<a href="transfer.jsp" class="nav-link text-danger">Transfer</a>
+				</div>
+				<div class="col text-center">
+					<a href="close.jsp" class="nav-link text-danger">Close A/C</a>
+				</div>
+				<div class="col text-center">
+					<a href="about.jsp" class="nav-link text-danger">About Us</a>
+				</div>
+			</div>
+
 		</div>
 		</div>
 		
